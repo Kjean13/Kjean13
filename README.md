@@ -1,5 +1,5 @@
-<h1 align="center">Jean Koumou</h1>
-<h3 align="center">Cybersecurity Student • Blue Team • SOC • Active Directory • DFIR</h3>
+<h1 align="center">Jean K.</h1>
+<h3 align="center">Infra & CYbersecurity Student • Blue Team • SOC • DFIR</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Cybersecurity+Student+focused+on+Blue+Team+Operations;Building+a+Personal+SOC+Automation+Lab;Creator+of+ADFT+%E2%80%94+Active+Directory+Forensic+Toolkit;Focused+on+Detection+Engineering%2C+AD+Security+and+DFIR" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## About Me
 
-Hi, I’m **Jean Koumou**.
+Hi, I’m **Jean**.
 
 I am building a hands-on path in cybersecurity with a strong focus on:
 
