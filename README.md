@@ -112,20 +112,6 @@ It is focused on:
 - Security monitoring
 - Practical cybersecurity tooling
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kjean13&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjean13&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kjean13&theme=transparent" />
-</p>
-
----
 
 ## Connect With Me
 
