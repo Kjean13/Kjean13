@@ -36,7 +36,7 @@ My goal is to design practical security projects that reflect real operational n
 
 ## Featured Projects
 
-### ADFT — Active Directory Forensic Toolkit
+### ADFT ---> Active Directory Forensic Toolkit
 
 **ADFT** is a Python-based Blue Team / DFIR project designed to help investigate suspicious activity in Active Directory environments.
 
