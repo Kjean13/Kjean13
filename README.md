@@ -27,7 +27,7 @@ My goal is to design practical security projects that reflect real operational n
 ## Current Focus
 
 - Building a **SOC Automation Lab**
-- Developing **ADFT — Active Directory Forensic Toolkit**
+- Developing **ADFT --> Active Directory Forensic Toolkit**
 - Working on **Active Directory attack detection and forensic workflows**
 - Strengthening my skills on **SIEM, Windows event analysis, MITRE ATT&CK and threat hunting**
 - Connecting and operationalizing tools such as **Wazuh, Suricata, Zeek, OpenCTI, n8n, IRIS and Ollama**
