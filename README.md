@@ -27,7 +27,7 @@ I use personal projects to strengthen my technical skills, document my progress,
 ## Current Focus
 
 - Building a personal **SOC / Blue Team lab**
-- Developing **ADFT** — an Active Directory forensic analysis project
+- Developing **ADFT** : an Active Directory forensic analysis project
 - Practicing **log analysis, detection logic and investigation workflows**
 - Improving my skills on **Windows event analysis, SIEM usage, MITRE ATT&CK and threat hunting**
 - Connecting tools such as **Wazuh, Suricata, Zeek, IRIS, OpenCTI, n8n and Python automation**
@@ -36,7 +36,7 @@ I use personal projects to strengthen my technical skills, document my progress,
 
 ## Featured Projects
 
-### ADFT — Active Directory Forensic Toolkit
+### ADFT : Active Directory Forensic Toolkit
 
 **ADFT** is a Python-based project focused on helping defenders analyze suspicious activity in Active Directory environments.
 
