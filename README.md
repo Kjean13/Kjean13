@@ -27,6 +27,13 @@ Coverage reporting, ATT&CK Navigator export, HTML report, semantic overlap detec
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-1e293b?style=flat-square)
 
+### GOAD-Light — Lab Deployment Guide
+Step-by-step deployment of Orange Cyberdefense's vulnerable AD lab on VirtualBox. Documents real errors, fixes, and the detection stack built on top: Wazuh, Suricata, Kali.  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-1e293b?style=flat-square&logo=virtualbox&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1e293b?style=flat-square&logo=ansible&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-1e293b?style=flat-square&logo=microsoft&logoColor=white)  
+→ [github.com/Kjean13/goad-light-deployment](https://github.com/Kjean13/goad-light-deployment)
+
 ### Wazuh SIEM on Active Directory (GOAD)
 SIEM deployment on an AD lab environment: Windows/Sysmon log collection, detection rules, dashboards, alerting, validated against controlled offensive scenarios.  
 ![Wazuh](https://img.shields.io/badge/Wazuh-1e293b?style=flat-square&logo=wazuh&logoColor=white)
