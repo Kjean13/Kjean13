@@ -34,16 +34,11 @@ Step-by-step deployment of Orange Cyberdefense's vulnerable AD lab on VirtualBox
 ![Active Directory](https://img.shields.io/badge/Active_Directory-1e293b?style=flat-square&logo=microsoft&logoColor=white)  
 → [github.com/Kjean13/goad-light-deployment](https://github.com/Kjean13/goad-light-deployment)
 
-### Wazuh SIEM on Active Directory (GOAD)
-SIEM deployment on an AD lab environment: Windows/Sysmon log collection, detection rules, dashboards, alerting, validated against controlled offensive scenarios.  
+### Personal SOC Lab — Detection on GOAD
+Full detection lab built on top of GOAD-Light: Wazuh SIEM with Windows/Sysmon log collection, Suricata for East-West traffic analysis, Zeek, OpenCTI for CTI, and a Kali attack machine on the same network segment. Detection rules validated against controlled offensive scenarios.  
 ![Wazuh](https://img.shields.io/badge/Wazuh-1e293b?style=flat-square&logo=wazuh&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-1e293b?style=flat-square&logo=microsoft&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-1e293b?style=flat-square)
 ![Sysmon](https://img.shields.io/badge/Sysmon-1e293b?style=flat-square)
-
-### Personal SOC Lab
-Active training environment — 13 tools across 4 domains: infrastructure (Linux, AD, Docker, VMware, Kali), detection (Wazuh, Suricata, Zeek), CTI (OpenCTI), automation (Python, PowerShell, n8n, Ansible).  
-![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-1e293b?style=flat-square&logo=kalilinux&logoColor=white)
 ![OpenCTI](https://img.shields.io/badge/OpenCTI-1e293b?style=flat-square)
 
