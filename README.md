@@ -14,7 +14,7 @@ Focused on Blue Team, SOC operations, Active Directory security and DFIR.
 
 ## Projects
 
-### ADFT — Active Directory Forensic Toolkit
+### ADFT : Active Directory Forensic Toolkit
 Python tool for AD forensic analysis: EVTX/JSON ingestion, MITRE ATT&CK mapping, multi-event correlation, timeline reconstruction, HTML/JSON/CSV reports.  
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1e293b?style=flat-square)
@@ -27,14 +27,14 @@ Coverage reporting, ATT&CK Navigator export, HTML report, semantic overlap detec
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-1e293b?style=flat-square)
 
-### GOAD-Light — Lab Deployment Guide
+### GOAD-Light : Lab Deployment Guide
 Step-by-step deployment of Orange Cyberdefense's vulnerable AD lab on VirtualBox. Documents real errors, fixes, and the detection stack built on top: Wazuh, Suricata, Kali.  
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-1e293b?style=flat-square&logo=virtualbox&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-1e293b?style=flat-square&logo=ansible&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-1e293b?style=flat-square&logo=microsoft&logoColor=white)  
 → [github.com/Kjean13/goad-light-deployment](https://github.com/Kjean13/goad-light-deployment)
 
-### Personal SOC Lab — Detection on GOAD
+### Personal SOC Lab : Detection on GOAD
 Full detection lab built on top of GOAD-Light: Wazuh SIEM with Windows/Sysmon log collection, Suricata for East-West traffic analysis, Zeek, OpenCTI for CTI, and a Kali attack machine on the same network segment. Detection rules validated against controlled offensive scenarios.  
 ![Wazuh](https://img.shields.io/badge/Wazuh-1e293b?style=flat-square&logo=wazuh&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-1e293b?style=flat-square)
