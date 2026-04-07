@@ -23,13 +23,13 @@ multi-event correlation, timeline reconstruction, HTML/JSON/CSV reports.
 ![JSON](https://img.shields.io/badge/JSON-1e293b?style=flat-square&logo=json&logoColor=white)  
 -> [github.com/Kjean13/ADFT](https://github.com/Kjean13/ADFT)
 
-### RuleScope - Sigma Rule Governance CLI *(WIP)*
-Python CLI for Sigma detection rule quality analysis and governance.  
-Coverage reporting, ATT&CK Navigator export, HTML report, semantic overlap detection.  
+### RuleScope - Sigma Rule Governance CLI
+Governance engine for Sigma detection catalogs. Semantic duplicate detection, weakness scoring, ATT&CK coverage, and CI quality gates.  
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma-1e293b?style=flat-square&logo=sigma&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-1e293b?style=flat-square&logo=yaml&logoColor=white)
-![Status](https://img.shields.io/badge/Status-WIP-orange?style=flat-square&logo=githubactions&logoColor=white)
+![Status](https://img.shields.io/badge/Status-v1.0.0-brightgreen?style=flat-square&logo=githubactions&logoColor=white)  
+-> [github.com/Kjean13/rulescope](https://github.com/Kjean13/rulescope)
 
 ### GOAD-Light - Lab Deployment Guide
 Step-by-step deployment of Orange Cyberdefense's vulnerable AD lab on VirtualBox.
