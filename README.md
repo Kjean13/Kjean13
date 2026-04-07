@@ -12,7 +12,7 @@ Focused on Blue Team, SOC operations, Active Directory security and DFIR.
 
 ---
 
-## Projects
+## Projects & Contributions
 
 ### ADFT - Active Directory Forensic Toolkit
 Python tool for AD forensic analysis: EVTX/JSON ingestion, MITRE ATT&CK mapping,
