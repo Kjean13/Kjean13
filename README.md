@@ -27,7 +27,7 @@ I build practical security projects around log analysis, detection engineering, 
 
 ## Projects
 
-### ADFT — Active Directory Forensic Toolkit
+### ADFT - Active Directory Forensic Toolkit
 
 Python toolkit designed to support Active Directory forensic investigations through event ingestion, correlation, timeline reconstruction and structured reporting.
 
@@ -49,7 +49,7 @@ Python toolkit designed to support Active Directory forensic investigations thro
 
 ---
 
-### RuleScope — Sigma Rule Governance CLI
+### RuleScope - Sigma Rule Governance CLI
 
 Governance tool for Sigma detection catalogs, focused on rule quality, catalog hygiene and detection coverage.
 
@@ -70,7 +70,7 @@ Governance tool for Sigma detection catalogs, focused on rule quality, catalog h
 
 ---
 
-### GOAD-Light — Lab Deployment Guide
+### GOAD-Light - Lab Deployment Guide
 
 Step-by-step deployment guide for Orange Cyberdefense's vulnerable Active Directory lab on VirtualBox.
 
@@ -99,7 +99,7 @@ The project documents real deployment issues, fixes, and the defensive stack bui
 
 ## Experience
 
-### Freelance — Systems & Cloud Technician  
+### Freelance - Systems & Cloud Technician  
 **2025**
 
 Microsoft 365 and Entra ID administration for SMB environments, with a focus on secure configuration, user support and incident triage.
@@ -120,7 +120,7 @@ Microsoft 365 and Entra ID administration for SMB environments, with a focus on 
 
 ---
 
-### SYSDECO — IT Technician Intern  
+### SYSDECO - IT Technician Intern  
 **2024**
 
 IT support and administration internship focused on user assistance, Microsoft 365, network diagnostics and internal documentation.
