@@ -18,13 +18,13 @@ Cybersecurity student focused on **Blue Team**, **SOC operations**, **Active Dir
 
 ## Projects
 
-- **ADFT** — Active Directory Forensic Toolkit for Windows event ingestion, correlation, timeline reconstruction and reporting.  
+- **ADFT** - Active Directory Forensic Toolkit for Windows event ingestion, correlation, timeline reconstruction and reporting.  
   [Repository](https://github.com/Kjean13/ADFT)
 
-- **RuleScope** — Sigma Rule Governance CLI for rule quality, catalog hygiene, duplicate detection and ATT&CK coverage.  
+- **RuleScope** - Sigma Rule Governance CLI for rule quality, catalog hygiene, duplicate detection and ATT&CK coverage.  
   [Repository](https://github.com/Kjean13/rulescope)
 
-- **GOAD-Light Deployment** — deployment guide for a vulnerable Active Directory lab with a defensive monitoring stack.  
+- **GOAD-Light Deployment** - deployment guide for a vulnerable Active Directory lab with a defensive monitoring stack.  
   [Repository](https://github.com/Kjean13/goad-light-deployment)
 
 ---
