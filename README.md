@@ -2,7 +2,7 @@
   <img src="https://github.com/Kjean13.png" width="110" alt="Jean Koumou"/>
 </p>
 
-<h1 align="center">Jean Koumou</h1>
+<h1 align="center">JKM</h1>
 
 <p align="center">
   <strong>Cybersecurity Engineering Student | Blue Team | DFIR | Detection Engineering</strong>
