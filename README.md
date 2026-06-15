@@ -26,7 +26,7 @@
 - Cybersecurity engineering student at **ESIEA**, building a profile around vulnerability analysis, defensive tooling and security automation.
 - Cyber Threat Intelligence Analyst at ******, working on digital evidence, suspicious infrastructure, IOC enrichment and structured reporting.
 - Hands-on experience with **Windows, Linux, Active Directory, Microsoft 365, SIEM deployment and incident triage**.
-- Seeking a **36-month cybersecurity apprenticeship** with a 2 weeks company / 2 weeks school schedule.
+- Seeking a **36-month cybersecurity apprenticeship** with a 2 weeks company / 2 weeks school schedule in France.
 
 ## Featured Projects
 
