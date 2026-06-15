@@ -94,4 +94,4 @@ Personal deployment and defensive monitoring guide built around Orange Cyberdefe
 
 - **Cisco CyberOps:** SOC Operations
 - **NIST Cybersecurity Framework 2.0**
-- **English:** B2
+- **CyberDefenders**
