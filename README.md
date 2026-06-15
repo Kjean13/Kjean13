@@ -65,10 +65,6 @@ Personal deployment and defensive monitoring guide built around Orange Cyberdefe
 
 `Active Directory` `Wazuh` `Sysmon` `Suricata` `Ansible` `VirtualBox`
 
-### Additional Work
-
-- [RuleScope](https://github.com/Kjean13/rulescope) - Sigma rule quality, duplicate detection, catalog hygiene and ATT&CK coverage.
-
 ## Technical Stack
 
 <p>
