@@ -17,7 +17,7 @@
 
 ```text
                      ============================================================
-                      BLUE TEAM | DFIR | ACTIVE DIRECTORY | DETECTION ENGINEERING 
+                      BLUE TEAM | DFIR | CYBER THREAT INTELLIGENCE | DETECTION ENGINEERING 
                      ============================================================
 ```
 
