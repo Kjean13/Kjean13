@@ -5,7 +5,7 @@
 <h1 align="center">Jean Koumou</h1>
 
 <p align="center">
-  <strong>Cybersecurity Engineering Student | Blue Team | DFIR | Active Directory | Detection Engineering</strong>
+  <strong>Cybersecurity Engineering Student | Blue Team | DFIR | Detection Engineering</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## Profile
 
 - Cybersecurity engineering student at **ESIEA**, building a profile around vulnerability analysis, defensive tooling and security automation.
-- **Cyber Threat Intelligence Analyst at CyberV**, working on digital evidence, suspicious infrastructure, IOC enrichment and structured reporting.
+- **Cyber Threat Intelligence Analyst at ******, working on digital evidence, suspicious infrastructure, IOC enrichment and structured reporting.
 - Hands-on experience with **Windows, Linux, Active Directory, Microsoft 365, SIEM deployment and incident triage**.
 - Seeking a **36-month cybersecurity apprenticeship** with a 2 weeks company / 2 weeks school schedule.
 
