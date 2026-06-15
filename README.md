@@ -54,7 +54,6 @@ Open-source local anti-infostealer hardening tool for Linux and Windows.
 
 [View V1.0.0 release](https://github.com/Kjean13/stealerxhunter/releases/tag/v1.0.0)
 
-<iframe src="https://github.com/sponsors/Kjean13/card" title="Sponsor Kjean13" height="225" width="600" style="border: 0;"></iframe>
 
 ### [GOAD-Light Detection Lab](https://github.com/Kjean13/goad-light-deployment)
 
