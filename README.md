@@ -41,30 +41,18 @@ Offline Windows and Active Directory investigation toolkit with a CLI and local 
 
 `Python` `EVTX` `FastAPI` `MITRE ATT&CK` `DFIR`
 
-### [stealerXHunter](https://github.com/Kjean13/stealerxhunter)
+### [RuleScope](https://github.com/Kjean13/rulescope)
 
-Open-source local anti-infostealer hardening tool for Linux and Windows.
+Governance CLI for Sigma and detection catalogs, built as a quality-control layer around detection content before merge or release.
 
-- synchronous Linux pre-read protection with `fanotify`
-- explainable ALLOW / DENY decisions and local evidence logs
-- Windows observe and hardening backend with reversible controls
-- Safe Capture Demo, rollback workflow, CI gates and packaged V1.0.0 release
+- catalog quality scoring across metadata, noise, structure, ATT&CK mapping, maintainability, weakness and documentation
+- semantic duplicate detection based on event-surface similarity rather than lexical YAML similarity
+- baseline vs candidate comparison to surface regressions before release
+- prioritized explanations and remediation guidance for weak rules
+- HTML, Markdown, JSON, SARIF and ATT&CK Navigator exports
+- CI-ready quality gates for pull requests and detection catalog releases
 
-`Python` `Bash` `PowerShell` `Linux` `Windows` `systemd`
-
-[View V1.0.0 release](https://github.com/Kjean13/stealerxhunter/releases/tag/v1.0.0)
-
-
-### [GOAD-Light Detection Lab](https://github.com/Kjean13/goad-light-deployment)
-
-Personal deployment and defensive monitoring guide built around Orange Cyberdefense's GOAD-Light lab.
-
-- vulnerable Active Directory environment
-- Windows and Sysmon log collection with Wazuh
-- Suricata network visibility
-- controlled attack scenarios for detection validation and investigation practice
-
-`Active Directory` `Wazuh` `Sysmon` `Suricata` `Ansible` `VirtualBox`
+`Python` `Sigma` `MITRE ATT&CK` `Detection Engineering` `CI/CD`
 
 ## Technical Stack
 
@@ -88,7 +76,7 @@ Personal deployment and defensive monitoring guide built around Orange Cyberdefe
 - Active Directory forensics and attack-path reconstruction
 - SOC investigation and SIEM workflows
 - Detection engineering and rule quality
-- Local endpoint hardening and anti-infostealer research
+- Sigma catalog governance and CI quality gates
 - CTI, IOC enrichment and incident reporting
 
 ## Training
