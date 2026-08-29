@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Kjean13.png" width="110" alt="Jean Koumou"/>
-</p>
 
 <h1 align="center">JKM</h1>
 
