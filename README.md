@@ -2,7 +2,7 @@
 <h1 align="center">JKM</h1>
 
 <p align="center">
-  <strong>Cybersecurity Engineering Student | Blue Team | DFIR | Detection Engineering</strong>
+  <strong>Cybersecurity Engineering Student | Blue Teamer |</strong>
 </p>
 
 <p align="center">
