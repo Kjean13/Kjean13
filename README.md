@@ -61,9 +61,9 @@ Governance CLI for Sigma and detection catalogs, built as a quality-control laye
 </p>
 
 - **Detection and investigation:** SIEM, EDR, Sysmon, Sigma, MITRE ATT&CK, EVTX, IOC analysis
-- **Infrastructure:** Active Directory, Windows Server, Linux, Microsoft 365, Entra ID, Docker, Ansible
+- **Infrastructure:** Active Directory, Windows Server, Linux, Entra ID, Docker, Ansible
 - **Network and reconnaissance:** TCP/IP, DNS, Wireshark, Nmap, Shodan, Suricata, Zeek
-- **Security platforms:** Splunk, Wazuh, Elastic, OpenCTI
+- **Security platforms:** Splunk, Wazuh, OpenCTI
 
 ## Current Focus
 
