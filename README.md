@@ -1,80 +1,64 @@
 
-<h1 align="center">JKM</h1>
+**Engineering Student | Software Development | Systems & Security**
 
-<p align="center">
-  <strong>Cybersecurity Engineering Student | Blue Teamer |</strong>
-</p>
+&#x20;[LinkedIn](https://linkedin.com/in/jean-koumou) · [GitHub](https://github.com/Kjean13) · [Email](mailto\:jean.koumou@et.esiea.fr)
 
-<p align="center">
-  <a href="https://eliesec.fr">Portfolio</a> ·
-  <a href="https://linkedin.com/in/jean-koumou">LinkedIn</a> ·
-  <a href="https://github.com/Kjean13">GitHub</a> ·
-  <a href="mailto:jean.koumou@et.esiea.fr">Email</a>
-</p>
+## About
 
-```text
-```
+I'm an engineering student at **ESIEA**, currently working at **** as a software development apprentice.
 
-## Profile
+My interests include software development, system internals, industrial computing and cybersecurity.
 
-- Cybersecurity engineering student at **ESIEA**, building a profile around vulnerability analysis, defensive tooling and security automation.
-- Cyber Threat Intelligence Analyst at ******, working on digital evidence, suspicious infrastructure, IOC enrichment and structured reporting.
-- Hands-on experience with **Windows, Linux, Active Directory, Microsoft 365, SIEM deployment and incident triage**.
-- Seeking a **36-month cybersecurity apprenticeship** with a 2 weeks company / 2 weeks school schedule in France.
+I enjoy understanding how software works, investigating technical problems and building tools to solve them.
 
-## Featured Projects
+## Projects
 
-### [ADFT - Active Directory Forensic Toolkit](https://github.com/Kjean13/ADFT)
+### [ADFT – Active Directory Forensic Toolkit](https://github.com/Kjean13/ADFT)
 
-Offline Windows and Active Directory investigation toolkit with a CLI and local web interface.
+A Python toolkit for investigating Windows and Active Directory environments.
 
-- EVTX, JSON, CSV, CEF, XML, Syslog and ZIP ingestion
-- deterministic detections and correlations
-- timeline reconstruction, attack-path analysis and exposure scoring
-- HTML, JSON, CSV, ATT&CK Navigator and Mermaid exports
+- Import and analyze Windows event logs and other forensic data.
+- Reconstruct timelines and correlate events.
+- Identify suspicious activity and potential attack paths.
+- Generate investigation reports and structured exports.
 
-`Python` `EVTX` `FastAPI` `MITRE ATT&CK` `DFIR`
+`Python` `Windows` `Active Directory` `DFIR`
 
-### [RuleScope](https://github.com/Kjean13/rulescope)
+### [CVI-MCP](https://github.com/Kjean13/cvi-mcp)
 
-Governance CLI for Sigma and detection catalogs, built as a quality-control layer around detection content before merge or release.
+A read-only MCP server that helps AI agents explore and understand existing LabWindows/CVI codebases.
 
-- catalog quality scoring across metadata, noise, structure, ATT&CK mapping, maintainability, weakness and documentation
-- semantic duplicate detection based on event-surface similarity rather than lexical YAML similarity
-- baseline vs candidate comparison to surface regressions before release
-- prioritized explanations and remediation guidance for weak rules
-- HTML, Markdown, JSON, SARIF and ATT&CK Navigator exports
-- CI-ready quality gates for pull requests and detection catalog releases
+- Analyze C source code using project-specific preprocessor settings.
+- Explore functions, symbols, dependencies and call graphs.
+- Reconstruct user interface connections between panels, controls and callbacks.
+- Identify dead code, potential risks, memory leaks and code complexity.
+- Inspect build configurations, compare versions and look up NI SDK references.
+- Expose 38 tools through the Model Context Protocol.
 
-`Python` `Sigma` `MITRE ATT&CK` `Detection Engineering` `CI/CD`
+The index is stored outside the project, and function bodies are not exposed to agents by default.
 
-## Technical Stack
+`Python` `C` `MCP` `LabWindows/CVI` `Tree-sitter`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+## Technologies & Tools
 
-- **Detection and investigation:** SIEM, EDR, Sysmon, Sigma, MITRE ATT&CK, EVTX, IOC analysis
-- **Infrastructure:** Active Directory, Windows Server, Linux, Entra ID, Docker, Ansible
-- **Network and reconnaissance:** TCP/IP, DNS, Wireshark, Nmap, Shodan, Suricata, Zeek
-- **Security platforms:** Splunk, Wazuh, OpenCTI
+**Programming:** C, Python, PowerShell, Bash
 
-## Current Focus
+**Systems:** Linux, Windows, Windows Server, Active Directory
 
-- Active Directory forensics and attack-path reconstruction
-- SOC investigation and SIEM workflows
-- Detection engineering and rule quality
-- Sigma catalog governance and CI quality gates
-- CTI, IOC enrichment and incident reporting
+**Development:** Git, Docker, FastAPI
 
-## Training
+**Industrial Computing:** Image Processing, CODESYS, WAGO
 
-- **Cisco CyberOps:** SOC Operations
-- **NIST Cybersecurity Framework 2.0**
-- **CyberDefenders**
+**Security:** Sysmon, Sigma, Wazuh, MITRE ATT&CK, Wireshark
+
+## Currently Exploring
+
+- C programming and software development
+- Industrial automation and PLC programming
+- Image processing and computer vision
+- Software architecture and debugging
+- System analysis and reverse engineering
+
+---
+
+*Learning, building and documenting along the way.*
