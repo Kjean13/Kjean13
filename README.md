@@ -5,7 +5,7 @@
 
 ## About
 
-I'm an engineering student at **ESIEA**, currently working at **** as a software development apprentice.
+I'm an engineering student, currently working at **** as a software development apprentice.
 
 My interests include software development, system internals, industrial computing and cybersecurity.
 
